@@ -3,4 +3,3 @@ second line
 thrid line
 delete line
 delete line
-fourth line
