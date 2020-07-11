@@ -1,0 +1,6 @@
+This is the first line
+second line
+thrid line
+delete line
+delete line
+fourth line
